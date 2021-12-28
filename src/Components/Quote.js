@@ -9,14 +9,16 @@ import {
 
 function Quote() {
   return (
-   <div>
+ 
        <div id="quote-container">
-         <h1 id="quoteText">"SDJHAS DFIUYWDKJS DJGSDJS DSJDGSJG SJDGS AKSH"</h1>
+         <div id="quote-box">
+         <h1 id="quoteText">"Your visions will become clear only when you can look into your own heart" -Carl Jung</h1>
+         </div>
         </div>
 
 
 
-    </div>
+
    
   )
 }
